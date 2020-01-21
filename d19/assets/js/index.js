@@ -30,7 +30,7 @@ function read_config(cfgfile) {
 
 //pass the sheetID to the var sheetUrl
 //var sheetUrl = 'https://spreadsheets.google.com/feeds/list/' + sheetID + '/1/public/values?alt=json';
-var sheetUrl = 'https://spreadsheets.google.com/feeds/list/1a1vsN2FQog3Pqf5N6lVmJ3MchDzXIHE8oVUO6dv4WZg/1/public/values?alt=json';
+var sheetUrl = 'https://spreadsheets.google.com/feeds/list/1OIVA9L1_F78vJk6nxr4kcdCaQHxJpnkSH9F2rHC7Qzs/1/public/values?alt=json';
 
 // Invoke the ajax request from the sheetID
 var xhr = new XMLHttpRequest()
